@@ -12,3 +12,6 @@
 - **Contact Form**: A simple contact form to allow visitors to reach out to me directly through the website.
 - **Responsive Design**: The website is fully responsive, meaning it looks great on desktops, tablets, and mobile devices.
   
+## Technologies Used
+ASP.NET Core - A powerful and high-performance framework for developing web applications.
+MSSQL - A database management system used to store and query data securely and efficiently.
