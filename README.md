@@ -15,4 +15,3 @@
 ## Technologies Used
 - **ASP.NET Core**: A powerful and high-performance framework for developing web applications.
 - **MSSQL**: A database management system used to store and query data securely and efficiently.
-
