@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{EBC90B09-6333-4499-A3D8-6B1D635919A1}|MyPortfolioSite\\MyPortfolioSite.csproj|solutionrelative:myportfoliosite\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBC90B09-6333-4499-A3D8-6B1D635919A1}|MyPortfolioSite\\MyPortfolioSite.csproj|c:\\users\\xiast\\source\\repos\\myportfoliosite\\myportfoliosite\\viewcomponents\\featurecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBC90B09-6333-4499-A3D8-6B1D635919A1}|MyPortfolioSite\\MyPortfolioSite.csproj|solutionrelative:myportfoliosite\\viewcomponents\\featurecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBC90B09-6333-4499-A3D8-6B1D635919A1}|MyPortfolioSite\\MyPortfolioSite.csproj|c:\\users\\xiast\\source\\repos\\myportfoliosite\\myportfoliosite\\viewcomponents\\skillcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC90B09-6333-4499-A3D8-6B1D635919A1}|MyPortfolioSite\\MyPortfolioSite.csproj|solutionrelative:myportfoliosite\\viewcomponents\\skillcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBC90B09-6333-4499-A3D8-6B1D635919A1}|MyPortfolioSite\\MyPortfolioSite.csproj|c:\\users\\xiast\\source\\repos\\myportfoliosite\\myportfoliosite\\views\\shared\\components\\featurecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EBC90B09-6333-4499-A3D8-6B1D635919A1}|MyPortfolioSite\\MyPortfolioSite.csproj|solutionrelative:myportfoliosite\\views\\shared\\components\\featurecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EBC90B09-6333-4499-A3D8-6B1D635919A1}|MyPortfolioSite\\MyPortfolioSite.csproj|c:\\users\\xiast\\source\\repos\\myportfoliosite\\myportfoliosite\\views\\shared\\components\\aboutcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBC90B09-6333-4499-A3D8-6B1D635919A1}|MyPortfolioSite\\MyPortfolioSite.csproj|solutionrelative:myportfoliosite\\views\\shared\\components\\aboutcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC90B09-6333-4499-A3D8-6B1D635919A1}|MyPortfolioSite\\MyPortfolioSite.csproj|c:\\users\\xiast\\source\\repos\\myportfoliosite\\myportfoliosite\\views\\shared\\components\\skillcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBC90B09-6333-4499-A3D8-6B1D635919A1}|MyPortfolioSite\\MyPortfolioSite.csproj|solutionrelative:myportfoliosite\\views\\shared\\components\\skillcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,27 +34,42 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Xiast\\source\\repos\\MyPortfolioSite\\MyPortfolioSite\\Views\\Shared\\Components\\SkillComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolioSite\\Views\\Shared\\Components\\SkillComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Xiast\\source\\repos\\MyPortfolioSite\\MyPortfolioSite\\Views\\Shared\\Components\\SkillComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolioSite\\Views\\Shared\\Components\\SkillComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T12:56:33.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\Xiast\\source\\repos\\MyPortfolioSite\\MyPortfolioSite\\Views\\Shared\\Components\\FeatureComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "MyPortfolioSite\\Views\\Shared\\Components\\FeatureComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\Xiast\\source\\repos\\MyPortfolioSite\\MyPortfolioSite\\Views\\Shared\\Components\\FeatureComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "MyPortfolioSite\\Views\\Shared\\Components\\FeatureComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Xiast\\source\\repos\\MyPortfolioSite\\MyPortfolioSite\\Views\\Shared\\Components\\AboutComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolioSite\\Views\\Shared\\Components\\AboutComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Xiast\\source\\repos\\MyPortfolioSite\\MyPortfolioSite\\Views\\Shared\\Components\\AboutComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolioSite\\Views\\Shared\\Components\\AboutComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-13T12:12:37.36Z"
+              "WhenOpened": "2024-11-16T12:55:27.371Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FeatureComponentPartial.cs",
-              "DocumentMoniker": "C:\\Users\\Xiast\\source\\repos\\MyPortfolioSite\\MyPortfolioSite\\ViewComponents\\FeatureComponentPartial.cs",
-              "RelativeDocumentMoniker": "MyPortfolioSite\\ViewComponents\\FeatureComponentPartial.cs",
-              "ToolTip": "C:\\Users\\Xiast\\source\\repos\\MyPortfolioSite\\MyPortfolioSite\\ViewComponents\\FeatureComponentPartial.cs",
-              "RelativeToolTip": "MyPortfolioSite\\ViewComponents\\FeatureComponentPartial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "SkillComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Xiast\\source\\repos\\MyPortfolioSite\\MyPortfolioSite\\ViewComponents\\SkillComponentPartial.cs",
+              "RelativeDocumentMoniker": "MyPortfolioSite\\ViewComponents\\SkillComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Xiast\\source\\repos\\MyPortfolioSite\\MyPortfolioSite\\ViewComponents\\SkillComponentPartial.cs",
+              "RelativeToolTip": "MyPortfolioSite\\ViewComponents\\SkillComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T12:10:41.335Z"
+              "WhenOpened": "2024-11-16T12:49:43.613Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,7 +79,7 @@
               "RelativeDocumentMoniker": "MyPortfolioSite\\Views\\Default\\Index.cshtml",
               "ToolTip": "C:\\Users\\Xiast\\source\\repos\\MyPortfolioSite\\MyPortfolioSite\\Views\\Default\\Index.cshtml",
               "RelativeToolTip": "MyPortfolioSite\\Views\\Default\\Index.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAcwAcAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAUwIMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-11T09:15:49.119Z",
               "EditorCaption": ""
