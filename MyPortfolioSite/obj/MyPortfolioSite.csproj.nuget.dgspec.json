@@ -66,7 +66,15 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
+<<<<<<< HEAD
               "version": "[8.0.6, )"
+=======
+<<<<<<< HEAD
+              "version": "[8.0.7, )"
+=======
+              "version": "[8.0.6, )"
+>>>>>>> f5ed275d67f4dc5d737fa489a5a6c84f01360c8a
+>>>>>>> new-branch
             }
           },
           "imports": [
