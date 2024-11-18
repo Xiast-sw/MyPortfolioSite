@@ -7,31 +7,8 @@
       "RelativeMoniker": "D:0:0:{EBC90B09-6333-4499-A3D8-6B1D635919A1}|MyPortfolioSite\\MyPortfolioSite.csproj|solutionrelative:myportfoliosite\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{EBC90B09-6333-4499-A3D8-6B1D635919A1}|MyPortfolioSite\\MyPortfolioSite.csproj|c:\\users\\xiast\\source\\repos\\myportfoliosite\\myportfoliosite\\viewcomponents\\skillcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBC90B09-6333-4499-A3D8-6B1D635919A1}|MyPortfolioSite\\MyPortfolioSite.csproj|solutionrelative:myportfoliosite\\viewcomponents\\skillcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBC90B09-6333-4499-A3D8-6B1D635919A1}|MyPortfolioSite\\MyPortfolioSite.csproj|c:\\users\\xiast\\source\\repos\\myportfoliosite\\myportfoliosite\\views\\shared\\components\\aboutcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EBC90B09-6333-4499-A3D8-6B1D635919A1}|MyPortfolioSite\\MyPortfolioSite.csproj|solutionrelative:myportfoliosite\\views\\shared\\components\\aboutcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBC90B09-6333-4499-A3D8-6B1D635919A1}|MyPortfolioSite\\MyPortfolioSite.csproj|c:\\users\\xiast\\source\\repos\\myportfoliosite\\myportfoliosite\\views\\shared\\components\\skillcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EBC90B09-6333-4499-A3D8-6B1D635919A1}|MyPortfolioSite\\MyPortfolioSite.csproj|solutionrelative:myportfoliosite\\views\\shared\\components\\skillcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-=======
->>>>>>> new-branch
-      "AbsoluteMoniker": "D:0:0:{EBC90B09-6333-4499-A3D8-6B1D635919A1}|MyPortfolioSite\\MyPortfolioSite.csproj|c:\\users\\xiast\\source\\repos\\myportfoliosite\\myportfoliosite\\viewcomponents\\featurecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBC90B09-6333-4499-A3D8-6B1D635919A1}|MyPortfolioSite\\MyPortfolioSite.csproj|solutionrelative:myportfoliosite\\viewcomponents\\featurecomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBC90B09-6333-4499-A3D8-6B1D635919A1}|MyPortfolioSite\\MyPortfolioSite.csproj|c:\\users\\xiast\\source\\repos\\myportfoliosite\\myportfoliosite\\views\\shared\\components\\featurecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EBC90B09-6333-4499-A3D8-6B1D635919A1}|MyPortfolioSite\\MyPortfolioSite.csproj|solutionrelative:myportfoliosite\\views\\shared\\components\\featurecomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-<<<<<<< HEAD
-=======
->>>>>>> f5ed275d67f4dc5d737fa489a5a6c84f01360c8a
->>>>>>> new-branch
+      "AbsoluteMoniker": "D:0:0:{EBC90B09-6333-4499-A3D8-6B1D635919A1}|MyPortfolioSite\\MyPortfolioSite.csproj|c:\\users\\xiast\\source\\repos\\myportfoliosite\\myportfoliosite\\views\\shared\\components\\footercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBC90B09-6333-4499-A3D8-6B1D635919A1}|MyPortfolioSite\\MyPortfolioSite.csproj|solutionrelative:myportfoliosite\\views\\shared\\components\\footercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,15 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-          "SelectedChildIndex": 3,
-=======
-<<<<<<< HEAD
-          "SelectedChildIndex": 4,
-=======
-          "SelectedChildIndex": 3,
->>>>>>> f5ed275d67f4dc5d737fa489a5a6c84f01360c8a
->>>>>>> new-branch
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,77 +26,16 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-              "DocumentIndex": 3,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\Xiast\\source\\repos\\MyPortfolioSite\\MyPortfolioSite\\Views\\Shared\\Components\\SkillComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "MyPortfolioSite\\Views\\Shared\\Components\\SkillComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\Xiast\\source\\repos\\MyPortfolioSite\\MyPortfolioSite\\Views\\Shared\\Components\\SkillComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "MyPortfolioSite\\Views\\Shared\\Components\\SkillComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T12:56:33.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\Xiast\\source\\repos\\MyPortfolioSite\\MyPortfolioSite\\Views\\Shared\\Components\\AboutComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "MyPortfolioSite\\Views\\Shared\\Components\\AboutComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\Xiast\\source\\repos\\MyPortfolioSite\\MyPortfolioSite\\Views\\Shared\\Components\\AboutComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "MyPortfolioSite\\Views\\Shared\\Components\\AboutComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T12:55:27.371Z",
-              "EditorCaption": ""
-=======
->>>>>>> new-branch
-              "DocumentIndex": 2,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\Xiast\\source\\repos\\MyPortfolioSite\\MyPortfolioSite\\Views\\Shared\\Components\\FeatureComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "MyPortfolioSite\\Views\\Shared\\Components\\FeatureComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\Xiast\\source\\repos\\MyPortfolioSite\\MyPortfolioSite\\Views\\Shared\\Components\\FeatureComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "MyPortfolioSite\\Views\\Shared\\Components\\FeatureComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-13T12:12:37.36Z"
-<<<<<<< HEAD
-=======
->>>>>>> f5ed275d67f4dc5d737fa489a5a6c84f01360c8a
->>>>>>> new-branch
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-              "Title": "SkillComponentPartial.cs",
-              "DocumentMoniker": "C:\\Users\\Xiast\\source\\repos\\MyPortfolioSite\\MyPortfolioSite\\ViewComponents\\SkillComponentPartial.cs",
-              "RelativeDocumentMoniker": "MyPortfolioSite\\ViewComponents\\SkillComponentPartial.cs",
-              "ToolTip": "C:\\Users\\Xiast\\source\\repos\\MyPortfolioSite\\MyPortfolioSite\\ViewComponents\\SkillComponentPartial.cs",
-              "RelativeToolTip": "MyPortfolioSite\\ViewComponents\\SkillComponentPartial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T12:49:43.613Z",
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Xiast\\source\\repos\\MyPortfolioSite\\MyPortfolioSite\\Views\\Shared\\Components\\FooterComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolioSite\\Views\\Shared\\Components\\FooterComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Xiast\\source\\repos\\MyPortfolioSite\\MyPortfolioSite\\Views\\Shared\\Components\\FooterComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolioSite\\Views\\Shared\\Components\\FooterComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T13:19:41.641Z",
               "EditorCaption": ""
-=======
->>>>>>> new-branch
-              "Title": "FeatureComponentPartial.cs",
-              "DocumentMoniker": "C:\\Users\\Xiast\\source\\repos\\MyPortfolioSite\\MyPortfolioSite\\ViewComponents\\FeatureComponentPartial.cs",
-              "RelativeDocumentMoniker": "MyPortfolioSite\\ViewComponents\\FeatureComponentPartial.cs",
-              "ToolTip": "C:\\Users\\Xiast\\source\\repos\\MyPortfolioSite\\MyPortfolioSite\\ViewComponents\\FeatureComponentPartial.cs",
-              "RelativeToolTip": "MyPortfolioSite\\ViewComponents\\FeatureComponentPartial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T12:10:41.335Z"
-<<<<<<< HEAD
-=======
->>>>>>> f5ed275d67f4dc5d737fa489a5a6c84f01360c8a
->>>>>>> new-branch
             },
             {
               "$type": "Document",
@@ -137,17 +45,9 @@
               "RelativeDocumentMoniker": "MyPortfolioSite\\Views\\Default\\Index.cshtml",
               "ToolTip": "C:\\Users\\Xiast\\source\\repos\\MyPortfolioSite\\MyPortfolioSite\\Views\\Default\\Index.cshtml",
               "RelativeToolTip": "MyPortfolioSite\\Views\\Default\\Index.cshtml",
-<<<<<<< HEAD
-              "ViewState": "AgIAAAcAAAAAAAAAAAAcwAcAAAAfAAAAAAAAAA==",
-=======
-<<<<<<< HEAD
-              "ViewState": "AgIAAGMAAAAAAAAAAAAUwIMAAAAfAAAAAAAAAA==",
-=======
-              "ViewState": "AgIAAAcAAAAAAAAAAAAcwAcAAAAfAAAAAAAAAA==",
->>>>>>> f5ed275d67f4dc5d737fa489a5a6c84f01360c8a
->>>>>>> new-branch
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T09:15:49.119Z",
+              "WhenOpened": "2024-11-18T11:55:21.617Z",
               "EditorCaption": ""
             }
           ]
